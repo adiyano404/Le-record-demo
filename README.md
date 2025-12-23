@@ -518,7 +518,7 @@
       <section id="divisions" class="border-b border-slate-900 bg-slate-950">
         <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-14 lg:py-16">
           <div class="max-w-3xl mb-6 sm:mb-10">
-            <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-2" data-i18n="divisions.sectionTitle">Regions &amp; prefectures of Guinea</h2>
+            <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-2 text-slate-100" data-i18n="divisions.sectionTitle">Regions &amp; prefectures of Guinea</h2>
             <p class="text-sm text-slate-300" data-i18n="divisions.sectionDesc">
               This demo models Guinea with four natural regions – Basse-Guinée, Moyenne-Guinée, Haute-Guinée and Guinée Forestière – and all prefectures using GN + number codes taken from the national map. If a code or spelling is incorrect, an administrator can amend it here and in the backend.
             </p>
@@ -563,7 +563,7 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-14 lg:py-16">
           <div class="grid lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.9fr)] gap-8 items-start">
             <div>
-              <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-2" data-i18n="about.sectionTitle">Why Le Record?</h2>
+              <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-2 text-slate-100" data-i18n="about.sectionTitle">Why Le Record?</h2>
               <p class="text-sm text-slate-300 mb-4" data-i18n="about.footerNote">
                 This interface is a conceptual demo for a national land and home registry platform for the Republic of Guinea.
               </p>
